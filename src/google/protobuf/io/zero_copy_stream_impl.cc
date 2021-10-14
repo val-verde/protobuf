@@ -32,7 +32,7 @@
 //  Based on original Protocol Buffers design by
 //  Sanjay Ghemawat, Jeff Dean, and others.
 
-#ifndef _MSC_VER
+#ifndef _WIN32
 #include <fcntl.h>
 #include <sys/stat.h>
 #include <sys/types.h>
